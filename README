@@ -1,0 +1,9 @@
+
+Bazel Firebase Cloud Messaging (FCM) example.
+
+1. Make sure ANDROID_HOME is set to the path of your Android SDK.
+
+2. Got to your Firebase console for your project, and in Settings, download
+   google-service.json and place it in the MyApplication/app directory.
+
+3. Run `bazel build app` in the MyApplication directory.
