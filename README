@@ -7,3 +7,6 @@ Bazel Firebase Cloud Messaging (FCM) example.
    google-service.json and place it in the MyApplication/app directory.
 
 3. Run `bazel build app` in the MyApplication directory.
+
+
+I reffered to [this link](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/bazel-discuss/rizq2Es-Sjw/eogwixNrEQAJ)
